@@ -1,2 +1,1 @@
-#Multidimensional Regression using Quantum Machine Learning (QML)
-A quantum machine learning implementation of multidimensional regression that leverages parameterized quantum circuits to model complex nonlinear relationships in high-dimensional data, demonstrating how quantum feature maps and variational circuits can be used for predictive modeling.
+This project implements multidimensional regression using Quantum Machine Learning with hybrid quantum–classical models built on PennyLane. It uses quantum feature encoding and variational circuits to learn complex nonlinear relationships in high-dimensional data, demonstrating how quantum models can perform regression tasks alongside classical methods.
